@@ -1,0 +1,34 @@
+#glowny{
+    display: block;
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+#w15{
+    border:1px double cyan;
+    height: 550px;
+    width: 700px;
+    margin-left: 30%;
+    clear: both;
+    float: left;
+}
+#sf24{
+    border:1px double red;
+    height: 550px;
+    width: 700px;
+    margin-left: 50%;
+    position: absolute;
+    clear: both;
+    margin-top: 20%;
+}
+#rb20{
+    border:1px double navy;
+    height: 550px;
+    width: 700px;
+    float: left;
+    margin-top: 25%;
+}
+#huy{
+    text-align: right;
+}
